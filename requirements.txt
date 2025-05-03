@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+sentinelhub
+numpy
+shapely
+geojson
+rasterio
+scikit-image
+matplotlib

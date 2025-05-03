@@ -1,0 +1,25 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore environment variables
+.env
+
+# Ignore virtual environment directories
+.venv/
+venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Quarto generated files
+*.qmd~
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore other common files
+*.log
+*.sqlite3
+*.geojson
+*.qmd
