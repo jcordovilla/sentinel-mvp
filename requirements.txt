@@ -1,9 +1,8 @@
-streamlit
+dash
+dash-bootstrap-components
+dash-leaflet
+numpy
+Pillow
+shapely
 python-dotenv
 sentinelhub
-numpy
-shapely
-geojson
-rasterio
-scikit-image
-matplotlib
